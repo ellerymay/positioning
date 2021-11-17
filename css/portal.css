@@ -1,10 +1,12 @@
 /* Global rules */
 
-@import url('https://fonts.googleapis.com/css?family=Quicksand');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap');
 
 html {
-    background-color: lightgray;
-    font-family: 'Quicksand', sans-serif;
+    background-color: FEF7DC;
+    font-family: 'Libre Baskerville', serif;
     font-size: 0.95em;
     line-height: 1.5em;
 }
@@ -37,13 +39,13 @@ h2,h3 {
 }
 
 a {
-    color:darkcyan;
+    color:#A19882;
     text-decoration: none;
 }
 
 a:hover {
-    color: whitesmoke;
-    background-color: darkcyan;
+    color: #E6DDC6;
+    background-color: #A19882;
     text-decoration: none;
 }
 
